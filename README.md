@@ -1,2 +1,1 @@
-# PChomePay-Cart-for-OpenCart
-PChomePay OpenCart Lib
+# PChomePay-for-OpenCart
